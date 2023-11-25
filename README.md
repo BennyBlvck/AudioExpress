@@ -3,6 +3,7 @@ Audio Express is a simple web application that leverages the Web Speech API to t
 
 ![Audio Express Logo](/img/AudioExpressLogo.png)
 
+
 ## Getting Started
 
 1. Clone the repository:
@@ -14,7 +15,9 @@ Audio Express is a simple web application that leverages the Web Speech API to t
 
 2. Open `index.html` in your web browser.
 
-3. Start typing in the text input, customize the speech options, and click "Say It!".
+3. You can also launch this from this link: ![AudioExpress](https://bennyblvck.github.io/AudioExpress/)
+
+4. Start typing in the text input, customize the speech options, and click "Say It!".
 
 ## Usage
 
